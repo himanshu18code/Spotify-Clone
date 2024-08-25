@@ -1,0 +1,1 @@
+Created a Spotify Clone using HTML, CSS, and JavaScript. The project replicates core features like music streaming, playlist management, and search functionality, demonstrating my front-end development skills and ability to build interactive, user-friendly web applications.
